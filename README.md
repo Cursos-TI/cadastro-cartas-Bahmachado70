@@ -74,4 +74,12 @@ No nível Mestre, você implementará comparações entre as cartas, utilizando 
 ---
 
 
+
+
+
+
+
+
+
+
 Equipe de Ensino - MateCheck
